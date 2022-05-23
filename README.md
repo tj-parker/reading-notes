@@ -9,3 +9,5 @@ What does growth mindset mean to me? It means that with patience and hardwork I 
 - Keep an open mind
 - Don't be afraid to ask questions
 - **Never give up!**
+
+Find me at GitHub [here](https://github.com/tj-parker).
