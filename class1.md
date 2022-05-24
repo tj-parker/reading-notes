@@ -1,6 +1,6 @@
 ### Class 1 Reading notes
 
-Github Pages allows you to design websites using markup language, which uses shortcuts and themes to design with html without using html.
+Github Pages allows you to design websites using markdown, which uses shortcuts and themes to design with html without using html.
 
 The website files are all part of the repository, so you can edit the source files as you like
 
