@@ -1,4 +1,3 @@
-
 # Class 3 Reading Notes
 
 ## Intro to Git
