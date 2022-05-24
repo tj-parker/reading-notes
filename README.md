@@ -2,6 +2,12 @@
 
 Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things.
 
+## Table of Contents
+
+- [Class 1](class1.md)
+- [Class 2](class2.md)
+- [Class 3](class3.md)
+
 ## *Growth Mindset*
 
 What does growth mindset mean to me? It means that with patience and hardwork I can achieve any goal I have.
