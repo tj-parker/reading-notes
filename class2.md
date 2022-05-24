@@ -9,6 +9,8 @@
   - includes more features than built in text editors such as syntax highlighting, themes and code completion
   - many are free but some cost money
 
-### IDE
+#### IDE
 
 IDE stands for Integrated Development Environment. It is a suite of software including a text editor, a file manager, a compiler, and a debugger all in one
+
+
