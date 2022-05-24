@@ -1,4 +1,4 @@
-### Class 1 Reading notes
+# Class 1 Reading Notes
 
 Github Pages allows you to design websites using markdown, which uses shortcuts and themes to design with html without using html.
 

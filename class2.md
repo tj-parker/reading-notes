@@ -1,25 +1,25 @@
-# Class2 reading notes
+# Class 2 Reading Notes
 
-### Classifications of Text Editors:
+## Classifications of Text Editors
 
 - software that comes with your computer (Text Edit on Mac, Notepad on Windows)
-  - tend to be more barebones than other text editors 
+  - tend to be more barebones than other text editors
   - make sure to code in plain textand saved with the appropriate extension
-- Third party options 
+- Third party options
   - includes more features than built in text editors such as syntax highlighting, themes and code completion
   - many are free but some cost money
 
-#### IDE
+### IDE
 
 IDE stands for Integrated Development Environment. It is a suite of software including a text editor, a file manager, a compiler, and a debugger all in one
 
-### Command Line
+## Command Line
 
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
 Within a terminal you have what is known as a shell. This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell.
 
-#### Basic Navigation
+### Basic Navigation
 
 `pwd` stands for "print working directory" and tells you what the current working directory is
 
@@ -35,7 +35,7 @@ A path is a means to get to a particular file or directory in the system
 
 `cd` stands for "change directory", it is usually followed by a location the user is trying to change to
 
-#### About Files
+### About Files
 
 Everything is a file under Linux, including directories, keyboards (read-only) and monitors (write-only)
 
@@ -48,5 +48,5 @@ Linux, unlike other operating systems such as Windows, is case sensitive. For ex
 If a file or directory has spaces in the name, use quotes (single or double) around the term or a backslash (known as an escape character) infront of the space in order to insure the name is read as one term.
 
 Files and directories can be hidden by beginning the name with a "."
-- modify the `ls` command with `-a` to list hidden files along with the rest of the directory
 
+- modify the `ls` command with `-a` to list hidden files along with the rest of the directory
