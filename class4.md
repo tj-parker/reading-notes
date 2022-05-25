@@ -28,3 +28,32 @@ An element is composed of an opening tag (the name of the element wrapped in ang
 Elements can also have attributes that contain extra information about the element that don't appear in the content
 
 - for example, the `class` attribute allows you to give the element a non-unique identifier that can be used to target it and any other element with the same class
+- an attribute should always have a space between it and the element name, an equal sign following the attribute name, and the attribute value wrapped by quotation marks
+
+Elements can be put inside other elements, this is called **nesting**
+
+**Empty Elements** have no content and thus need no closing tag
+
+- The `<img>` tag is an example of an empty element
+
+### Anatomy of an HTML document
+
+    <!DOCTYPE html>
+    <html>
+     <head>
+      <meta charset="utf-8">
+      <title>My test page</title>
+     </head>
+     <body>
+      <img src="#" alt="My test image">
+     </body>
+    </html>
+
+`<!DOCTYPE html>` is required at the start of any HTML document
+`<html></html>` wraps all the content on the page, sometimes reffered to as the root element
+`<head></head>` a container for stuff that isn't content being shown, such as SEO terms, CSS, etc
+`<meta charset="utf-8">` sets the charact set to UTF-8 which includes most characters from  the vast majority of written languages
+`<title></title>` sets the title that appears in the browser tab
+`<body></body>` contains all the content you want to show to web users
+`<img>` elements contain a `src` attribute that contain the path to the image file, and an `alt` attribute to specify a descriptive text for users who cannot see the image
+
