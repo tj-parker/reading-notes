@@ -71,4 +71,4 @@ Heading elements allow you to specify up  to six heading levels, using `<h1>` to
 
 Lists can either be ordered with `<ol>` or unordered with `<ul>`, with the list items put inside `<li>` elements
 
-`<a>` anchor elements are used in conjuction with an `href` attribute to create links
+`<a>` anchor elements are used in conjunction with an `href` attribute to create links
