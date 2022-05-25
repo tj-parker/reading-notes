@@ -50,10 +50,25 @@ Elements can be put inside other elements, this is called **nesting**
     </html>
 
 `<!DOCTYPE html>` is required at the start of any HTML document
+
 `<html></html>` wraps all the content on the page, sometimes reffered to as the root element
+
 `<head></head>` a container for stuff that isn't content being shown, such as SEO terms, CSS, etc
+
 `<meta charset="utf-8">` sets the charact set to UTF-8 which includes most characters from  the vast majority of written languages
+
 `<title></title>` sets the title that appears in the browser tab
+
 `<body></body>` contains all the content you want to show to web users
+
 `<img>` elements contain a `src` attribute that contain the path to the image file, and an `alt` attribute to specify a descriptive text for users who cannot see the image
 
+#### Essential HTML Elements
+
+Heading elements allow you to specify up  to six heading levels, using `<h1>` to `<h6>`
+
+`<p>` elements are for containing paragraphs of text
+
+Lists can either be ordered with `<ol>` or unordered with `<ul>`, with the list items put inside `<li>` elements
+
+`<a>` anchor elements are used in conjuction with an `href` attribute to create links
