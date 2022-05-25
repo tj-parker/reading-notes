@@ -8,6 +8,8 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things.
 - [Class 2](class2.md)
 - [Class 3](class3.md)
 - [Class 4](class4.md)
+- [Class 5](class5.md)
+- [Class 6](class6.md)
 
 ## *Growth Mindset*
 
