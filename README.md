@@ -10,6 +10,7 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things.
 - [Class 4](class4.md)
 - [Class 5](class5.md)
 - [Class 6](class6.md)
+- [Class 7](class7.md)
 
 ## *Growth Mindset*
 
