@@ -42,3 +42,75 @@ function myFunction() {
 ```
 
 Since local variable are only recognized inside their functions, variable with the same name can be used in different functions
+
+## Operators
+
+### Arithmetic Operators
+
+Arithmetic operators are used to perform arithmetic on numbers:
+
+| Operator   | Description   |
+| :------: | :-------: |
+|  +  | Addition |
+|  -   | Subtraction  |
+| *   | Multiplication|
+| ** | Exponentiation |
+| / | Division |
+| % | Modulus (Division Remainder) |
+| ++ | Increment |
+| -- | Decrement |
+
+### Assignment Operators
+
+Assignment operators assign values to JavaScript variables.
+
+Operator | Example | Same As |
+| :----: | :-----: | :-----: |
+| = | x = y | x = y |
+| += | x += y | x = x + y |
+| -= | x -= y | x = x - y |
+| *= | x *= y | x = x * y |
+| /= | x /= y | x = x / y |
+| %= | x %= y | x = x % y |
+| **= | x **= y | x = x ** y|
+
+### Concatenation
+
+The `+` and `+=` operators can also be used to add (concatenate) strings
+
+```js
+let text1 = "Hello";
+let text2 = "World";
+let text3 = text1 + " " + text2;
+```
+
+```js
+let text1 = "Hello ";
+text1 += "World";
+```
+
+Both codes would output "Hello World"
+
+Adding two numbers will return the sum, but concatenating a number and a string will return a string
+
+### Comparison Operators
+
+| Operator | Description |
+| :-----: | :----: |
+| == | equal to |
+| === | equal value and equal type |
+| != | not equal |
+| !== | not equal value or not equal type |
+| > | greater than |
+| < | less than |
+| >= | greater than or equal to |
+| <= | less than or equal to |
+| ? | ternary operator |
+
+### Logical Operators
+
+| Operator | Description |
+| :----: | :-----: |
+| && | logical and |
+| &#124;&#124; | logical or |
+| ! | logical not |
