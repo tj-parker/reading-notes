@@ -17,7 +17,7 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 
 ### Code 201 Reading Notes
 
-- [Reading 01](201/reading01.md)
+- [Reading 01](201/class-01.md)
 - [Reading 02]
 - [Reading 03]
 - [Reading 04]
