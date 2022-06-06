@@ -1,17 +1,37 @@
 # My Reading Journal
 
-Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things.
+Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are my reading notes taken throughout my Code Fellows journey.
 
 ## Table of Contents
 
-- [Class 1](class1.md)
-- [Class 2](class2.md)
-- [Class 3](class3.md)
-- [Class 4](class4.md)
-- [Class 5](class5.md)
-- [Class 6](class6.md)
-- [Class 7](class7.md)
-- [Class 8](class8.md)
+### Code 102 Reading Notes
+
+- [Class 1](102/class1.md)
+- [Class 2](102/class2.md)
+- [Class 3](102/class3.md)
+- [Class 4](102/class4.md)
+- [Class 5](102/class5.md)
+- [Class 6](102/class6.md)
+- [Class 7](102/class7.md)
+- [Class 8](102/class8.md)
+
+### Code 201 Reading Notes
+
+- [Reading 01](201/reading01.md)
+- [Reading 02]
+- [Reading 03]
+- [Reading 04]
+- [Reading 05]
+- [Reading 06]
+- [Reading 07]
+- [Reading 08]
+- [Reading 09]
+- [Reading 10]
+- [Reading 11]
+- [Reading 12]
+- [Reading 13]
+- [Reading 14]
+- [Reading 15]
 
 ## *Growth Mindset*
 
