@@ -20,7 +20,7 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 - [Reading 01](201/class-01.md)
 - [Reading 02](201/class-02.md)
 - [Reading 03](201/class-03.md)
-- [Reading 04]
+- [Reading 04](201/class-04.md)
 - [Reading 05]
 - [Reading 06]
 - [Reading 07]

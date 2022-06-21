@@ -57,4 +57,4 @@ For example, if the number of lives in a video game reaches zero, than the playe
 
 ### Loops
 
-Loops are useful as they allow the user to do the same thing over and over again without having to run the code multiple times. 
+Loops are useful as they allow the user to do the same thing over and over again without having to run the code multiple times.
