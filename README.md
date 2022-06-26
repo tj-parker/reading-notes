@@ -24,7 +24,7 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 - [Reading 05](201/class-05.md)
 - [Reading 06](201/class-06.md)
 - [Reading 07](201/class-07.md)
-- [Reading 08]
+- [Reading 08](201/class-08.md)
 - [Reading 09]
 - [Reading 10]
 - [Reading 11]
