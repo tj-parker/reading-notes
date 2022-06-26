@@ -8,7 +8,7 @@ It's important to remember to keep a form simple and only ask for necessary data
 
 The `<form>` element formally defines a form and attributes that determine the form's behavior. Each HTML form must start with this element
 
-The `<fieldset>` element creates groups of widgets that share the same purpose, for styling and semantic purposes. The `<fieldset>` element can also be used to section a form. 
+The `<fieldset>` element creates groups of widgets that share the same purpose, for styling and semantic purposes. The `<fieldset>` element can also be used to section a form.
 
 A `<fieldset>` cna be labeled using a `<legend>` element. The text inside a `<legend>` formally desciribes the purpose of the `<fieldset>` it is included inside, and is useful for making the form more accessible.
 
@@ -24,6 +24,6 @@ When using the `addEventListener()` method, you need a event written as a string
 
 Event objects are parameters specified inside and event handler function that is automatically passed to even handlers to provide extra features and information. The `target` property of the even object is always a reference to the element the event occured upon, ensuring the function triggered only affects what its supposed to
 
-In the event capturing phase, the browser checkst to see if the element's outer-most ancestor had an event handler registered on it, and runs it if so. Then it moves on the the next element inside and does the same, and then the next one, and so on until it reaches the direct parent of the element that the even actualyl registered. 
+In the event capturing phase, the browser checkst to see if the element's outer-most ancestor had an event handler registered on it, and runs it if so. Then it moves on the the next element inside and does the same, and then the next one, and so on until it reaches the direct parent of the element that the even actualyl registered.
 
-The bubbling phase is the exact opposite of the capturing phase. The browser checks to see if the direct parent of the element has an event handler registered on it, than runs it if so. Then it moves on to the next immediate ancestor element and does the same, so on until it reaches the `<html>` element. 
+The bubbling phase is the exact opposite of the capturing phase. The browser checks to see if the direct parent of the element has an event handler registered on it, than runs it if so. Then it moves on to the next immediate ancestor element and does the same, so on until it reaches the `<html>` element.
