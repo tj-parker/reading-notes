@@ -10,4 +10,4 @@ Any properties that reorder the visual display from how things are ordered in th
 
 Certain simple layout designs are difficult or impossible using float and positioning are much easier with flexbox such as vertically centering a block of content inside its parent, or making all the children of a container take up an equal amount of available width/height regardless of what's available
 
-Flexbox allows for the creation of more modern and aesthetically pleasing layouts that other layout strategies don't offer. 
+Flexbox allows for the creation of more modern and aesthetically pleasing layouts that other layout strategies don't offer.
