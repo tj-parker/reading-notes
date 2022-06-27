@@ -29,7 +29,7 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 - [Reading 10](201/class-10.md)
 - [Reading 11](201/class-11.md)
 - [Reading 12](201/class-12.md)
-- [Reading 13]
+- [Reading 13](201/class-13.md)
 - [Reading 14]
 - [Reading 15]
 
