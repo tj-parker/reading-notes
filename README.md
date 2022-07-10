@@ -1,10 +1,8 @@
-# My Reading Journal
+# Reading Notes
 
 Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are my reading notes taken throughout my Code Fellows journey.
 
-## Table of Contents
-
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 - [Class 1](102/class1.md)
 - [Class 2](102/class2.md)
@@ -15,7 +13,7 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 - [Class 7](102/class7.md)
 - [Class 8](102/class8.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [Reading 01](201/class-01.md)
 - [Reading 02](201/class-02.md)
@@ -31,7 +29,10 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 - [Reading 12](201/class-12.md)
 - [Reading 13](201/class-13.md)
 - [Reading 14](201/class-14.md)
-- [Reading 15]
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
 
 ## *Growth Mindset*
 
