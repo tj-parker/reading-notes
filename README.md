@@ -32,6 +32,8 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 
 ## Code 301 - Intermediate Software Development
 
+- [Reading 01](301/class-01.md)
+
 ## Code 401 - Advanced Software Development
 
 ## *Growth Mindset*
