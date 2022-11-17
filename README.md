@@ -34,6 +34,19 @@ Hi I'm TJ, I'm a student at Code Fellows! I hope to learn many things. Here are 
 
 - [Reading 01](301/class-01.md)
 - [Reading 02](301/class-02.md)
+- [Reading 03](301/class-03.md)
+- [Reading 04](301/class-04.md)
+- [Reading 05](301/class-05.md)
+- [Reading 06](301/class-06.md)
+- [Reading 07](301/class-07.md)
+- [Reading 08](301/class-08.md)
+- [Reading 09](301/class-09.md)
+- [Reading 10](301/class-10.md)
+- [Reading 11](301/class-11.md)
+- [Reading 12](301/class-12.md)
+- [Reading 13](301/class-13.md)
+- [Reading 14](301/class-14.md)
+- [Reading 15](301/class-15.md)
 
 ## Code 401 - Advanced Software Development
 
